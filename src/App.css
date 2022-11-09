@@ -4,7 +4,8 @@
   padding: 20px;
 }
 
-.DiaryEditor input, textarea {
+.DiaryEditor input,
+textarea {
   margin-bottom: 20px;
   width: 500px;
   padding: 10px;
@@ -26,7 +27,6 @@
   padding: 10px;
   cursor: pointer;
 }
-
 
 /* List */
 .DiaryList {
